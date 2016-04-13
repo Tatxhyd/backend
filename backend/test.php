@@ -7,7 +7,10 @@
  */
 
 echo "krishna";
-echo "Niranjan123";
+
+echo "Niranjan";
 echo "krishnaaaa";
 echo "dsaff";
+echo "123";
+
 ?>
